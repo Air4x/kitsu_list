@@ -76,7 +76,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "kitsu_client"
+name = "kitsu_list"
 version = "0.1.0"
 dependencies = [
  "serde",

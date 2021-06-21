@@ -1,5 +1,5 @@
 [package]
-name = "kitsu_client"
+name = "kitsu_list"
 version = "0.1.0"
 authors = ["Mario Calcagno <mario.calcagno03@gmail.com>"]
 edition = "2018"
