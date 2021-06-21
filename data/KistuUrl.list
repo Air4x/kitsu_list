@@ -1,0 +1,3 @@
+user's id: https://kitsu.io/api/edge/users?filter[name]=<username>
+library entries: https://kitsu.io/api/edge/users/<id>/library-entries
+

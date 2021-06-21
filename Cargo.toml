@@ -1,0 +1,10 @@
+[package]
+name = "kitsu_client"
+version = "0.1.0"
+authors = ["Mario Calcagno <mario.calcagno03@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ureq =  {version = "*", features = ["json", "charset"] }
+serde = {version = "1.0", features = ["derive"] }
+serde_json = "1.0"

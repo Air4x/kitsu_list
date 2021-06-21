@@ -1,0 +1,209 @@
+{
+  "data": {
+    "id": "11106",
+    "type": "anime",
+    "links": {
+      "self": "https://kitsu.io/api/edge/anime/11106"
+    },
+    "attributes": {
+      "createdAt": "2015-06-18T21:30:34.309Z",
+      "updatedAt": "2021-06-14T12:00:08.591Z",
+      "slug": "wakfu-the-quest-for-the-six-doufus-eliatropes",
+      "synopsis": "Amalia is forced to marry Count Harebourg, leader of Frigost, to save her kingdom.",
+      "description": "Amalia is forced to marry Count Harebourg, leader of Frigost, to save her kingdom.",
+      "coverImageTopOffset": 186,
+      "titles": {
+        "en_us": "Wakfu - The Quest for the Six Dofus Eliatropes"
+      },
+      "canonicalTitle": "Wakfu - The Quest for the Six Dofus Eliatropes",
+      "abbreviatedTitles": [],
+      "averageRating": "79.38",
+      "ratingFrequencies": {
+        "2": "43",
+        "3": "2",
+        "4": "5",
+        "5": "0",
+        "6": "3",
+        "7": "1",
+        "8": "33",
+        "9": "1",
+        "10": "4",
+        "11": "3",
+        "12": "13",
+        "13": "14",
+        "14": "84",
+        "15": "8",
+        "16": "24",
+        "17": "16",
+        "18": "23",
+        "19": "2",
+        "20": "298"
+      },
+      "userCount": 960,
+      "favoritesCount": 2,
+      "startDate": "2014-11-15",
+      "endDate": "2014-11-29",
+      "nextRelease": null,
+      "popularityRank": 4882,
+      "ratingRank": 697,
+      "ageRating": "G",
+      "ageRatingGuide": "",
+      "subtype": "special",
+      "status": "finished",
+      "tba": "",
+      "posterImage": {
+        "tiny": "https://media.kitsu.io/anime/poster_images/11106/tiny.jpg?1597697060",
+        "small": "https://media.kitsu.io/anime/poster_images/11106/small.jpg?1597697060",
+        "medium": "https://media.kitsu.io/anime/poster_images/11106/medium.jpg?1597697060",
+        "large": "https://media.kitsu.io/anime/poster_images/11106/large.jpg?1597697060",
+        "original": "https://media.kitsu.io/anime/poster_images/11106/original.jpg?1597697060",
+        "meta": {
+          "dimensions": {
+            "tiny": {
+              "width": 110,
+              "height": 156
+            },
+            "small": {
+              "width": 284,
+              "height": 402
+            },
+            "medium": {
+              "width": 390,
+              "height": 554
+            },
+            "large": {
+              "width": 550,
+              "height": 780
+            }
+          }
+        }
+      },
+      "coverImage": {
+        "tiny": "https://media.kitsu.io/anime/cover_images/11106/tiny.jpg?1597702575",
+        "small": "https://media.kitsu.io/anime/cover_images/11106/small.jpg?1597702575",
+        "large": "https://media.kitsu.io/anime/cover_images/11106/large.jpg?1597702575",
+        "original": "https://media.kitsu.io/anime/cover_images/11106/original.jpg?1597702575",
+        "meta": {
+          "dimensions": {
+            "tiny": {
+              "width": 840,
+              "height": 200
+            },
+            "small": {
+              "width": 1680,
+              "height": 400
+            },
+            "large": {
+              "width": 3360,
+              "height": 800
+            }
+          }
+        }
+      },
+      "episodeCount": 3,
+      "episodeLength": 45,
+      "totalLength": 135,
+      "youtubeVideoId": "",
+      "showType": "special",
+      "nsfw": false
+    },
+    "relationships": {
+      "genres": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/genres",
+          "related": "https://kitsu.io/api/edge/anime/11106/genres"
+        }
+      },
+      "categories": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/categories",
+          "related": "https://kitsu.io/api/edge/anime/11106/categories"
+        }
+      },
+      "castings": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/castings",
+          "related": "https://kitsu.io/api/edge/anime/11106/castings"
+        }
+      },
+      "installments": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/installments",
+          "related": "https://kitsu.io/api/edge/anime/11106/installments"
+        }
+      },
+      "mappings": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/mappings",
+          "related": "https://kitsu.io/api/edge/anime/11106/mappings"
+        }
+      },
+      "reviews": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/reviews",
+          "related": "https://kitsu.io/api/edge/anime/11106/reviews"
+        }
+      },
+      "mediaRelationships": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/media-relationships",
+          "related": "https://kitsu.io/api/edge/anime/11106/media-relationships"
+        }
+      },
+      "characters": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/characters",
+          "related": "https://kitsu.io/api/edge/anime/11106/characters"
+        }
+      },
+      "staff": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/staff",
+          "related": "https://kitsu.io/api/edge/anime/11106/staff"
+        }
+      },
+      "productions": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/productions",
+          "related": "https://kitsu.io/api/edge/anime/11106/productions"
+        }
+      },
+      "quotes": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/quotes",
+          "related": "https://kitsu.io/api/edge/anime/11106/quotes"
+        }
+      },
+      "episodes": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/episodes",
+          "related": "https://kitsu.io/api/edge/anime/11106/episodes"
+        }
+      },
+      "streamingLinks": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/streaming-links",
+          "related": "https://kitsu.io/api/edge/anime/11106/streaming-links"
+        }
+      },
+      "animeProductions": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/anime-productions",
+          "related": "https://kitsu.io/api/edge/anime/11106/anime-productions"
+        }
+      },
+      "animeCharacters": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/anime-characters",
+          "related": "https://kitsu.io/api/edge/anime/11106/anime-characters"
+        }
+      },
+      "animeStaff": {
+        "links": {
+          "self": "https://kitsu.io/api/edge/anime/11106/relationships/anime-staff",
+          "related": "https://kitsu.io/api/edge/anime/11106/anime-staff"
+        }
+      }
+    }
+  }
+}
