@@ -2,10 +2,10 @@ use serde_json::Value;
 use ureq::get;
 use std::env;
 
+// TODO: Adding a cicle to manage library with more of 20 entry
 fn main() {
     // getting command line args
     let args: Vec<String> = env::args().collect();
-    println!("{:?}", args);
     // getting user id
     let username = &args[1];
     let id_url = "https://kitsu.io/api/edge/users?filter[name]=";
