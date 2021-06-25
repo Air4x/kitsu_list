@@ -1,3 +1,4 @@
+**The program is really young and doesn't have all the features required for a minimal viable product**
 # Kitsu_list
 This is a program to list the entry in your kitsu.io library
 
